@@ -1,4 +1,4 @@
-package br.com.julio.javaintegrationfullstack.aula02.models;
+package br.com.julio.javaintegrationfullstack.models;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

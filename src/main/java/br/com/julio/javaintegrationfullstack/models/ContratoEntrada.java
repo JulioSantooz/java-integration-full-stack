@@ -1,4 +1,4 @@
-package br.com.julio.javaintegrationfullstack.aula02.models;
+package br.com.julio.javaintegrationfullstack.models;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
